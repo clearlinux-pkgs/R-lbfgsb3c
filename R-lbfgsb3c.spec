@@ -5,7 +5,7 @@
 #
 Name     : R-lbfgsb3c
 Version  : 2020.3.2
-Release  : 1
+Release  : 2
 URL      : https://cran.r-project.org/src/contrib/lbfgsb3c_2020-3.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/lbfgsb3c_2020-3.2.tar.gz
 Summary  : Limited Memory BFGS Minimizer with Bounds on Parameters with
