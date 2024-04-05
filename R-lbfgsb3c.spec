@@ -6,10 +6,10 @@
 # autospec commit: f56f1fa
 #
 Name     : R-lbfgsb3c
-Version  : 2024.3.3
-Release  : 5
-URL      : https://cran.r-project.org/src/contrib/lbfgsb3c_2024-3.3.tar.gz
-Source0  : https://cran.r-project.org/src/contrib/lbfgsb3c_2024-3.3.tar.gz
+Version  : 2024.3.4
+Release  : 6
+URL      : https://cran.r-project.org/src/contrib/lbfgsb3c_2024-3.4.tar.gz
+Source0  : https://cran.r-project.org/src/contrib/lbfgsb3c_2024-3.4.tar.gz
 Summary  : Limited Memory BFGS Minimizer with Bounds on Parameters with
 Group    : Development/Tools
 License  : BSD-3-Clause GPL-2.0
@@ -68,10 +68,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1712005545
+export SOURCE_DATE_EPOCH=1712328475
 
 %install
-export SOURCE_DATE_EPOCH=1712005545
+export SOURCE_DATE_EPOCH=1712328475
 rm -rf %{buildroot}
 mkdir -p %{buildroot}/usr/share/package-licenses/R-lbfgsb3c
 cp %{_builddir}/lbfgsb3c/inst/License-lbfgsb-orig.txt %{buildroot}/usr/share/package-licenses/R-lbfgsb3c/7521b5b33f064a3d0649bdbd4a7c0c026a6fe398 || :
