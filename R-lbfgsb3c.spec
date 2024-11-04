@@ -7,7 +7,7 @@
 #
 Name     : R-lbfgsb3c
 Version  : 2024.3.5
-Release  : 8
+Release  : 9
 URL      : https://cran.r-project.org/src/contrib/lbfgsb3c_2024-3.5.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/lbfgsb3c_2024-3.5.tar.gz
 Summary  : Limited Memory BFGS Minimizer with Bounds on Parameters with
